@@ -3,7 +3,7 @@
   <br>
   <a href="https://github.com/OssamaN7/OsXploiter"><img src="https://raw.githubusercontent.com/OssamaN7/OsXploiter/main/logo/Os.png" alt="osxploiter" width="400"></a>
   <br>
-  osXploiter V0.1
+  OsXploiter V0.1
   <br>
 </h1>
 <h4 align="center">Python-based Reverse Shell Payload Generator crafted for targeting Windows operating systems. </h4>
@@ -17,8 +17,9 @@
   <a href="#warning">Warning</a> •
   <a href="#license">License</a>
 </p>
+<h4 align="center">Click on this screenshot to watch a tuto ! </h4>
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://raw.githubusercontent.com/OssamaN7/OsXploiter/main/logo/frame.png)](https://www.dailymotion.com/video/k188c3DRPTFTY4zFyhp)
 
 ## Key Features
 
