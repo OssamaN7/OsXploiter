@@ -17,7 +17,7 @@
   <a href="#warning">Warning</a> •
   <a href="#license">License</a>
 </p>
-<h4 align="center">Click on this screenshot to watch a tuto ! </h4>
+
 
 [![Watch the video](https://raw.githubusercontent.com/OssamaN7/OsXploiter/main/logo/frame.png)](https://www.dailymotion.com/video/k188c3DRPTFTY4zFyhp)
 
