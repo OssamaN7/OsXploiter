@@ -41,6 +41,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 $ sudo pip install colarama
 $ sudo pip install pycryptodome
 $ sudo pip install hashlib
+$ git clone [repo]
+$cd [repo]
+$python Crypter.py
+Enjoy ! :D
 ```
 
 
