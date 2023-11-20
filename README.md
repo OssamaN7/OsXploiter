@@ -13,6 +13,7 @@
 <p align="center">
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-use">How To Use</a> •
+  <a href="#warning">EmailME</a> •
   <a href="#warning">Warning</a> •
   <a href="#license">License</a>
 </p>
@@ -39,7 +40,9 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 ```bash
 $ sudo pip install colarama
 $ pip install pycryptodome
-$ pip install hashlib 
+$ pip install hashlib
+```
+
 
 
 > **Note**
@@ -47,16 +50,16 @@ $ pip install hashlib
 
 
 
-## Emailware
+## EmailME
 
 As a student, I would greatly appreciate your feedback and suggestions. If you have any ideas to enhance my script, please share them with me at: [oussamaeuler@gmail.com].
 . I'd really appreciate it!
 
-## Warning :
+## Warning 
 > This script is created for educational purposes, intended to share my ideas and engage in discussions with you. I want to clarify that I am not liable for any misuse or exploitation of this script.
 
 
-## About Me !..
+## About Me 
 
 Visit : elmouddene.com
 
