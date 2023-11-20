@@ -39,8 +39,8 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [P
 
 ```bash
 $ sudo pip install colarama
-$ pip install pycryptodome
-$ pip install hashlib
+$ sudo pip install pycryptodome
+$ sudo pip install hashlib
 ```
 
 
