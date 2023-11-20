@@ -42,8 +42,8 @@ $ sudo pip install colarama
 $ sudo pip install pycryptodome
 $ sudo pip install hashlib
 $ git clone [repo]
-$cd [repo]
-$python Crypter.py
+$ cd [repo]
+$ python Crypter.py
 Enjoy ! :D
 ```
 
